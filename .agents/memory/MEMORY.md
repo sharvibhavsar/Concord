@@ -1,0 +1,1 @@
+- [Cycle-aware features](cycle-aware-features.md) — menstrual phase tracking, ProfileSetup wizard, PhaseBanner, RescheduleDialog, auth via Replit OIDC

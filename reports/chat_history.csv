@@ -1,0 +1,30 @@
+id,user_id,role,content,created_at
+1,usr_sharvibhavsar12,user,how many tasks left?,2026-07-31 06:52:01.572000+00:00
+2,usr_sharvibhavsar12,assistant,"🤖 I'm here to help! You currently have 16 task(s) total. Try asking ""What tasks are high priority?"", ""Am I available on the 23rd?"", or ""Show pending tasks.""",2026-07-31 06:52:01.990000+00:00
+3,usr_sharvibhavsar12,user,tell me low priority tasks,2026-07-31 06:52:14.967000+00:00
+4,usr_sharvibhavsar12,assistant,"🤖 I'm here to help! You currently have 16 task(s) total. Try asking ""What tasks are high priority?"", ""Am I available on the 23rd?"", or ""Show pending tasks.""",2026-07-31 06:52:15.379000+00:00
+5,usr_sharvibhavsar12,user,pending tasks,2026-07-31 10:20:11.885000+00:00
+6,usr_sharvibhavsar12,assistant,"🤖 I'm here to help! You currently have 16 task(s) total. Try asking ""What tasks are high priority?"", ""Am I available on the 23rd?"", or ""Show pending tasks.""",2026-07-31 10:20:12.341000+00:00
+7,usr_sharvibhavsar12,user,show pending tasks,2026-07-31 10:20:18.017000+00:00
+8,usr_sharvibhavsar12,assistant,"🤖 I'm here to help! You currently have 16 task(s) total. Try asking ""What tasks are high priority?"", ""Am I available on the 23rd?"", or ""Show pending tasks.""",2026-07-31 10:20:18.444000+00:00
+9,usr_sharvibhavsar12,user,am i available on 21st august?,2026-07-31 13:51:41.513000+00:00
+10,usr_sharvibhavsar12,assistant,📅 Your calendar for **2026-07-21** is clear! You have no tasks scheduled.,2026-07-31 13:51:42.242000+00:00
+11,usr_sharvibhavsar12,user,What tasks are for 16th August?,2026-08-02 06:13:51.267000+00:00
+12,usr_sharvibhavsar12,assistant,"🤖 I'm here to help! You currently have 24 task(s) total. Try asking ""What tasks are high priority?"", ""Am I available on the 23rd?"", or ""Show pending tasks.""",2026-08-02 06:13:51.998000+00:00
+13,usr_sharvibhavsar12,user,Am I available on 3rd?,2026-08-02 06:14:03.466000+00:00
+14,usr_sharvibhavsar12,assistant,📅 Your calendar for **2026-08-03** is clear! You have no tasks scheduled.,2026-08-02 06:14:03.884000+00:00
+15,usr_sharvibhavsar12,user,What tasks are low priority?,2026-08-02 06:14:19.544000+00:00
+16,usr_sharvibhavsar12,assistant,"🤖 I'm here to help! You currently have 24 task(s) total. Try asking ""What tasks are high priority?"", ""Am I available on the 23rd?"", or ""Show pending tasks.""",2026-08-02 06:14:19.970000+00:00
+17,usr_sharvibhavsar12,user,What are high priority task?,2026-08-02 06:14:30.418000+00:00
+18,usr_sharvibhavsar12,assistant,"🔴 Pending high-priority tasks:
+• **Call Priya for project meeting**
+• **Meet Kena for presentation**
+• **Meet Arya**
+• **Initialize repository and pnpm workspace (Copy)**
+• **Initialize repository and pnpm workspace**
+• **Configure Express backend routes for Auth**
+• **Set up Drizzle ORM schema models**
+• **Submit project status report**
+• **Reply to mentor review feedback email**
+• **Finalize menstrual cycle balancing dashboard suggestions**
+• **Implement Google Calendar sync setting UI card**",2026-08-02 06:14:30.839000+00:00

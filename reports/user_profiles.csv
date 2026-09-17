@@ -1,0 +1,3 @@
+user_id,display_name,gender,last_period_date,cycle_length,luteal_phase_length,last_period_updated_at,profile_completed,weekend_available,productive_time_start,productive_time_end,priority_order,theme_preference,analytics_theme,custom_theme_colors,created_at,updated_at
+usr_sharvi,Sharvi Bhavsar,female,2026-07-02 00:00:00+00:00,28,14,2026-07-31 06:21:30.760000+00:00,True,True,09:00,17:00,[],light,cool,,2026-08-11 05:58:08.915784+00:00,2026-08-11 05:58:08.912000+00:00
+usr_sharvibhavsar12,Sharvi Bhavsar,female,2026-07-02 00:00:00+00:00,28,14,2026-07-31 06:21:30.760000+00:00,True,True,09:00,17:00,[],light,cool,,2026-08-11 05:58:09.001013+00:00,2026-08-11 05:58:08.999000+00:00
